@@ -8,5 +8,5 @@ https://yuan291104.atlassian.net/wiki/external/ZjYyY2MyNGRjOWFkNDI4YzkzNTM2NmIwM
 https://miro.com/app/board/uXjVHpo0XT4=/?share_link_id=609156918216 
 
 # GenAI 
-"analysis_md" contains details of this project's analysis in .md format.
-Download the .md files and drop into your GenAI to save on tokens.
+A separate folder "analysis_md" is created to save on GenAI tokens.
+Each .md file contains details of each analysis stage.
